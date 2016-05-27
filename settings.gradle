@@ -1,2 +1,2 @@
-include ':app', ':AndroidUniversalImageLoader'
+include ':app', ':AndroidUniversalImageLoader', ':appcompat_v7'
 

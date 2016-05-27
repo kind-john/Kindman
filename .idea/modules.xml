@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/disk3/AndroidStudioProjects/Kindman/AndroidUniversalImageLoader/AndroidUniversalImageLoader.iml" filepath="$USER_HOME$/disk3/AndroidStudioProjects/Kindman/AndroidUniversalImageLoader/AndroidUniversalImageLoader.iml" />
       <module fileurl="file://$USER_HOME$/disk3/AndroidStudioProjects/Kindman/Kindman.iml" filepath="$USER_HOME$/disk3/AndroidStudioProjects/Kindman/Kindman.iml" />
       <module fileurl="file://$USER_HOME$/disk3/AndroidStudioProjects/Kindman/app/app.iml" filepath="$USER_HOME$/disk3/AndroidStudioProjects/Kindman/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/disk3/AndroidStudioProjects/Kindman/appcompat_v7/appcompat_v7.iml" filepath="$USER_HOME$/disk3/AndroidStudioProjects/Kindman/appcompat_v7/appcompat_v7.iml" />
     </modules>
   </component>
 </project>

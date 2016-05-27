@@ -9,13 +9,17 @@
         <option name="modules">
           <set>
             <option value="$USER_HOME$/disk3/AndroidStudioProjects/Kindman" />
+            <option value="$USER_HOME$/disk3/AndroidStudioProjects/Kindman/AndroidUniversalImageLoader" />
             <option value="$USER_HOME$/disk3/AndroidStudioProjects/Kindman/app" />
+            <option value="$USER_HOME$/disk3/AndroidStudioProjects/Kindman/appcompat_v7" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$USER_HOME$/disk3/AndroidStudioProjects/Kindman" />
+            <option value="$USER_HOME$/disk3/AndroidStudioProjects/Kindman/AndroidUniversalImageLoader" />
             <option value="$USER_HOME$/disk3/AndroidStudioProjects/Kindman/app" />
+            <option value="$USER_HOME$/disk3/AndroidStudioProjects/Kindman/appcompat_v7" />
           </set>
         </option>
       </GradleProjectSettings>
