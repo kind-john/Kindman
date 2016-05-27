@@ -1,2 +1,2 @@
-include ':app'
-//,':Android-Universal-Image-Loader-master'
+include ':app', ':AndroidUniversalImageLoader'
+
