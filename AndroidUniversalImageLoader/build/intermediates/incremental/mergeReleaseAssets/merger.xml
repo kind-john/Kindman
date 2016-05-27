@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/ckt/disk3/Downloads/Android-Universal-Image-Loader-master/library/src/main/assets"/><source path="/home/ckt/disk3/Downloads/Android-Universal-Image-Loader-master/library/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/ckt/disk3/Downloads/Android-Universal-Image-Loader-master/library/src/release/assets"/></dataSet></merger>
